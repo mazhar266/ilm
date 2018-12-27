@@ -1,0 +1,16 @@
+title: ইলম
+author: ইলম এ আমল সংগঠন
+email: iln.e.amal@gmail.com
+description: >-
+  ইলম একটি ইসলামিক ব্লগ সাইট যেখানে বর্তমান সমস‍্যার কথা এবং তার সমাধানের
+  ব‍্যাপারে কথা বলা হয়।
+twitter_username: ilm-e-amal
+github_username: ilm-e-amal
+rss: আর এস এস ফিড
+show_excerpts: 'false'
+minima:
+  date_format: '%b %-d, %Y'
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
